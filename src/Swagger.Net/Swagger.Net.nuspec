@@ -4,8 +4,8 @@
     <id>Odn.Swagger.Net</id>
     <version>$version$</version>
     <title>Odn:Swagger.Net</title>
-    <authors>ODotNet Odn Project Team</authors>
-    <owners>ODotNet Odn Project Team</owners>
+    <authors>ODotNet Project Team</authors>
+    <owners>ODotNet Project Team</owners>
     <projectUrl>http://odotnet.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Odn基础组件</description>
