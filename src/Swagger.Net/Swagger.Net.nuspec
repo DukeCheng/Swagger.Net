@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Odn.Swagger.Net</id>
+    <version>$version$</version>
+    <title>Odn:Swagger.Net</title>
+    <authors>ODotNet Odn Project Team</authors>
+    <owners>ODotNet Odn Project Team</owners>
+    <projectUrl>http://odotnet.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Odn基础组件</description>
+    <releaseNotes>Odn基础组件</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Odn,Odn Framework</tags>
+  </metadata>
+</package>
