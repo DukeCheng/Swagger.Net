@@ -3,10 +3,11 @@
   <metadata>
     <id>Odn.Swagger.Net</id>
     <version>$version$</version>
-    <title>Odn:Swagger.Net</title>
+    <title>Odn.Swagger.Net</title>
     <authors>ODotNet Project Team</authors>
     <owners>ODotNet Project Team</owners>
-    <projectUrl>http://odotnet.com</projectUrl>
+    <projectUrl>http://www.odotnet.com/SwaggerNet</projectUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/e9e4ebb221ac2210f064f22103a3b73b</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Odn基础组件</description>
     <releaseNotes>Odn基础组件</releaseNotes>
